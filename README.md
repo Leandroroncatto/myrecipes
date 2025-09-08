@@ -50,7 +50,7 @@ O objetivo principal foi **aprofundar os conhecimentos em desenvolvimento full-s
 - **HTML5 & CSS3**
 
 ### 🔙 Back-end
-- **TypeScript**
+- **TypeScript** (tipagem estática)
 - **Express** (Framework Web)
 - **MongoDB** (Banco NoSQL)
 - **Mongoose** (ODM)
