@@ -85,9 +85,9 @@ export default function Home() {
 					© 2025 myRecipes. Projeto feito para fins de estudo por
 					<a
 						className='underline transition duration-75 ease-in text-emerald-400 hover:text-emerald-600'
-						href='https://github.com/leleo1337'
+						href='https://github.com/Leandroroncatto'
 						target='_blank'>
-						Leleo1337
+						Leandroroncatto
 					</a>
 				</span>
 			</footer>
